@@ -1,6 +1,6 @@
 # ullweb Action Policy for Code development
 ## _Code use and deployment action policy at ullweb_
-<br />
+
 ## Code Development and Design Methodology
 - A specific code development pattern with detailed commenting, proper code linting as well as comprehensive documentation will be adopted for all codes being generated at ullweb. 
 
