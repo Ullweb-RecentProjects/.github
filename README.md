@@ -42,7 +42,7 @@
 - Strict adherence to dedicated coding style, with detailed comments and code linting  
 - Use of clear naming conventions 
 - Clear and descriptive commit messages 
-- Devs submit pull request and track bugs and changes using issues in github   
+- Devs submit pull request and track bugs changes using issues in github   
 - Strict adherence to Security best practices
 - Clear and Concise repository naming convention 
 - Project description file must be included in the project directory
